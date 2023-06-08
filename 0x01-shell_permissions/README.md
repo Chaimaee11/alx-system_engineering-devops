@@ -1,0 +1,1 @@
+ redame for shell permissions
